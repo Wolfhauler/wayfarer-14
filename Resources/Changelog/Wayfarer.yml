@@ -1123,3 +1123,18 @@ Entries:
   id: 6619
   time: '2026-01-29T18:05:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/398
+- author: Eillyrea
+  changes:
+    - type: Tweak
+      message: Vaults/Caches should no longer spawn near PoIs
+    - type: Tweak
+      message: >-
+        Vaults/Caches won't spawn unless there's a Commodore on shift, they also
+        last longer
+    - type: Tweak
+      message: >-
+        Vaults/Caches have had their wording updated to no longer be
+        NT/Syndicate
+  id: 6620
+  time: '2026-01-29T18:53:09.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/396
