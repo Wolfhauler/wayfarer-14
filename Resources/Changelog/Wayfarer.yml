@@ -1282,3 +1282,10 @@ Entries:
   id: 6638
   time: '2026-02-05T04:58:04.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/439
+- author: ShepardToTheStars
+  changes:
+    - type: Fix
+      message: Combat medipens now heal again.
+  id: 6639
+  time: '2026-02-05T04:58:25.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/440
