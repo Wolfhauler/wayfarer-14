@@ -1317,3 +1317,12 @@ Entries:
   id: 6643
   time: '2026-02-05T23:59:03.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/432
+- author: VVersengt
+  changes:
+    - type: Tweak
+      message: >-
+        Adjusted hunger and thirst values again, and removed Feroxi's extra
+        dehydration component.
+  id: 6644
+  time: '2026-02-06T00:01:18.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/437
