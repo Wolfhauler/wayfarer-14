@@ -1442,3 +1442,10 @@ Entries:
   id: 6658
   time: '2026-02-13T18:26:06.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/471
+- author: Eillyrea
+  changes:
+    - type: Add
+      message: Examine structures for damage
+  id: 6659
+  time: '2026-02-13T18:27:04.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/473
