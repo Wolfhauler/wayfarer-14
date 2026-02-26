@@ -1648,3 +1648,10 @@ Entries:
   id: 6683
   time: '2026-02-26T06:23:39.0000000+00:00'
   url: https://github.com/project-wayfarer/wayfarer-14/pull/509
+- author: Eillyrea
+  changes:
+    - type: Add
+      message: Sidearm, Longarm and Ammo loadouts to all Civilian jobs
+  id: 6684
+  time: '2026-02-26T06:24:07.0000000+00:00'
+  url: https://github.com/project-wayfarer/wayfarer-14/pull/527
